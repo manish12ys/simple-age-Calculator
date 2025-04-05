@@ -24,7 +24,7 @@ simple-age-Calculator-main/
 
 1. **Download** or **clone** the repository:
    ```bash
-   git clone https://github.com/your-username/simple-age-Calculator-main.git
+   git clone https://github.com/manish12ys/simple-age-Calculator.git
    ```
 
 2. **Open `index.html`** in your web browser. No setup is needed!
