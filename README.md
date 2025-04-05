@@ -33,3 +33,15 @@ simple-age-Calculator-main/
 ## 💡 Traditional Inspiration
 
 This project keeps things simple—just like in the early days of the web—using plain HTML, CSS, and JavaScript to get the job done with elegance and clarity.
+
+
+
+##🌐this is project url
+```
+https://roadmap.sh/projects/age-calculator
+```
+and this this is my deployed url
+```
+https://simple-age-calculator-main.netlify.app/
+
+```
